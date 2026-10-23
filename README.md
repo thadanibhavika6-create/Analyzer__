@@ -2,285 +2,255 @@
 
 <div align="center">
 
-<a href="https://github.com/chandnithadani960">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=217346&center=true&vCenter=true&width=700&lines=%F0%9F%94%B4+LIVE+Sales+Analyzer+Dashboard;%F0%9F%93%8A+200+Orders+%7C+7+Sheets+%7C+0+Macros;%E2%9A%A1+Live+Formulas+%E2%80%94+Update+Data%2C+Everything+Refreshes;%F0%9F%93%88+KPIs+%7C+Regression+%7C+What-If+%7C+Customer+Insights" alt="Live typing animation" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2a,50:107c41,100:33c481&height=260&section=header&text=SALES%20ANALYZER&fontSize=56&fontColor=ffffff&stroke=0b3d2a&strokeWidth=1&animation=twinkling&fontAlignY=36&desc=%F0%9F%94%B4%20LIVE%20%7C%20Excel%20Dashboard%20%7C%20KPIs%20%7C%20Regression%20%7C%20What-If&descAlignY=58&descSize=19" width="100%"/>
 
-# 🔴 LIVE · 📊 Sales Analyzer
+<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%94%B4+LIVE+Sales+Analyzer+Dashboard;7+Sheets+%E2%80%A2+200+Orders+%E2%80%A2+0+Macros;KPIs+%7C+Regression+%7C+What-If+%7C+Customer+Insights;Live+formulas+%E2%80%94+change+data%2C+everything+refreshes;Sales+%E2%80%A2+Profit+%E2%80%A2+Customers+%E2%80%A2+Statistics&font=Fira+Code&center=true&width=700&height=45&color=107C41&vCenter=true&size=22&pause=1200"/>
 
-<a id="an-interactive-formula-driven-excel-dashboard-for-sales-profit-customer-insights"></a>
+<br/>
 
-### 🔴 LIVE · An interactive, formula-driven Excel dashboard for sales, profit & customer insights
-
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Formulas](https://img.shields.io/badge/100%25-Live_Formulas-blue?style=for-the-badge)
-![Sheets](https://img.shields.io/badge/Sheets-7-orange?style=for-the-badge)
-![Records](https://img.shields.io/badge/Orders-200-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-LIVE-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white)
-
-*Turn 200 raw orders into KPIs, charts, statistics, a regression model and a discount simulator — all without a single macro.*
+![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Sheets](https://img.shields.io/badge/Worksheets-7-1f6feb?style=for-the-badge)
+![Orders](https://img.shields.io/badge/Orders-200-8957e5?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-LIVE-brightgreen?style=for-the-badge)
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=LIVE%20%C2%B7%20Project%20Overview&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Project Overview"/>
+</div>
 
-<a id="table-of-contents"></a>
+**Sales Analyzer** is a hands-on Excel project (`Analyzer.xlsx`) that turns **200 raw sales orders (Apr 2024 – Apr 2025)** into a one-page executive dashboard, backed by customer segmentation, pivot-style summaries, descriptive statistics, a **linear regression model** and a **what-if discount simulator**. Each sheet answers real business questions such as *"Which region earns the most?"*, *"Who are our top customers?"* and *"What happens to profit if we change the discount?"*
 
-## 🔴 LIVE · 📑 Table of Contents
+Everything is **formula-driven with zero macros** — change the data and every KPI, chart, table and written insight updates automatically.
 
-- [🔴 About the Project](#about-the-project)
-- [🔴 Key Highlights](#key-highlights)
-- [🔴 Workbook Structure](#workbook-structure)
-- [🔴 Dashboard Preview](#dashboard-preview)
-- [🔴 Sample Findings](#sample-findings)
-- [🔴 Dataset Description](#dataset-description)
-- [🔴 Excel Functions Used](#excel-functions-used)
-- [🔴 How to Use](#how-to-use)
-- [🔴 Skills Demonstrated](#skills-demonstrated)
-- [🔴 Author](#author)
+> 📸 *Add your dashboard screenshot here:* `![Dashboard](screenshots/dashboard.png)`
 
----
+<br/>
 
-<a id="about-the-project"></a>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=LIVE%20%C2%B7%20Workbook%20Structure&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Workbook Structure"/>
+</div>
 
-## 🔴 LIVE · 🎯 About the Project
 
-**Sales Analyzer** is a complete business-analytics workbook built entirely in Microsoft Excel. It takes a transactional sales dataset (**200 orders, Apr 2024 – Apr 2025**) and converts it into a one-page executive dashboard, supported by customer segmentation, pivot-style summaries, descriptive statistics, a linear regression model and a what-if discount simulator.
+| # | Sheet | Records | What it covers |
+|:-:|---|:-:|---|
+| 1 | 🏠 `DASHBOARD` | 12 KPIs | KPI cards, 3 charts, 6 auto-written insights |
+| 2 | 🔬 `ANALYSIS` | 200 | Cleaned data + calculated columns |
+| 3 | 👥 `CUSTOMERS` | 30 | Ranking, tiers, Top-10 leaderboard |
+| 4 | 📋 `PIVOT TABLE` | 3 tables | Sales by Region, Category & Region × Category |
+| 5 | 🎛️ `WHAT IF` | 7 rates | Discount scenario & sensitivity table |
+| 6 | 📐 `REGRESSION` | 200 | Profit vs Sales model with ANOVA & predictor |
+| 7 | 📊 `DESCRIPTIVE STATS` | 3 vars | Full statistics + histogram |
 
-Everything is **formula-driven** — change the data and every KPI, table, chart and written insight updates automatically.
+### 1️⃣ `DASHBOARD`
+| Section | Description |
+|---|---|
+| KPI Row 1 | Total Sales · Total Orders · Total Profit · Profit Margin · Avg Order Value · Highest Sale |
+| KPI Row 2 | Discount Given · Avg Discount · Top Customer · Best Region · Best Category · Best Month |
+| Charts | Bar chart, Pie chart, Monthly trend line chart |
+| Key Insights | 6 "data storytelling" sentences that rewrite themselves when data changes |
 
----
-
-<a id="key-highlights"></a>
-
-## 🔴 LIVE · ✨ Key Highlights
-
-| | Feature | Description |
-|---|---|---|
-| 📈 | **Executive Dashboard** | 12 KPI cards + 3 charts (bar, pie, line) on a single page |
-| 🧠 | **Auto-written Insights** | 6 "data storytelling" sentences that rewrite themselves when data changes |
-| 👥 | **Customer Analysis** | Ranking, tiers (*High Value* / *Regular*) and Top-10 leaderboard |
-| 🧮 | **Pivot-style Summaries** | Region, Category and Region × Category tables built with `SUMIFS` |
-| 🔮 | **What-If Simulator** | Test any discount rate and see the profit impact instantly |
-| 📉 | **Regression Model** | Profit vs Sales with ANOVA, coefficients, p-values and a predictor |
-| 📊 | **Descriptive Statistics** | ToolPak-style stats + histogram, written as live formulas |
-
----
-
-<a id="workbook-structure"></a>
-
-## 🔴 LIVE · 🗂️ Workbook Structure
-
-```
-📁 Analyzer.xlsx
-│
-├── 🏠 DASHBOARD          → KPIs, charts & key insights
-├── 🔬 ANALYSIS           → Cleaned data + calculated columns
-├── 👥 CUSTOMERS          → Customer ranking, tiers & Top-10 leaderboard
-├── 📋 PIVOT TABLE        → Sales by Region, Category & Region × Category
-├── 🎛️ WHAT IF            → Discount scenario & sensitivity table
-├── 📐 REGRESSION         → Linear regression: Profit (Y) vs Sales (X)
-└── 📊 DESCRIPTIVE STATS  → Mean, median, std. dev., skewness, kurtosis, histogram
-```
-
-<a id="sheet-by-sheet"></a>
-
-### 🔴 LIVE · Sheet-by-sheet
-
-<details>
-<summary><b>🔴 LIVE · 🏠 DASHBOARD</b></summary>
-
-- **Row 1 KPIs:** Total Sales · Total Orders · Total Profit · Profit Margin · Avg Order Value · Highest Sale
-- **Row 2 KPIs:** Discount Given · Avg Discount · Top Customer · Best Region · Best Category · Best Month
-- **Charts:** Bar chart, Pie chart, Monthly trend line chart
-- **Key Insights:** 6 auto-generated sentences (top region, best category, best month, customer concentration, regression takeaway, discount what-if)
-</details>
-
-<details>
-<summary><b>🔴 LIVE · 🔬 ANALYSIS</b></summary>
-
-Pulls the raw dataset and adds calculated columns:
-
-| Column | Formula idea |
+### 2️⃣ `ANALYSIS`
+| Column | Description |
 |---|---|
 | Discount Amount | `Sales × Discount` |
 | Total Purchase | `Sales − Discount Amount` |
 | Profit Margin | `Profit ÷ Sales` |
-| Profit Status | `Profit` / `Break-even` / `Loss` (with conditional formatting) |
-| Order Month | First day of the order's month (for trend analysis) |
+| Profit Status | `Profit` / `Break-even` / `Loss` with conditional formatting |
+| Order Month | First day of the order month, used for trends |
 | Timestamp | `NOW()` — shows when the report was last refreshed |
-</details>
 
-<details>
-<summary><b>🔴 LIVE · 👥 CUSTOMERS</b></summary>
-
-- Orders, Total Sales, Total Purchase, Total Profit and Avg Purchase per customer
-- `RANK`-based leaderboard with **Customer Tier** flag
-- 🟨 **Editable yellow cell** – change the Top-N cut-off for "High Value"
-- Top-10 leaderboard with **% share of all purchases**; Top-10 rows highlighted green
-</details>
-
-<details>
-<summary><b>🔴 LIVE · 📋 PIVOT TABLE</b></summary>
-
-Three formula-driven tables (no manual refresh needed, unlike real PivotTables):
-1. Sales & % share by **Region**
-2. Sales & % share by **Product Category**
-3. **Region × Category** cross-tab with grand totals
-</details>
-
-<details>
-<summary><b>🔴 LIVE · 🎛️ WHAT IF</b></summary>
-
-- 🟨 Enter a flat discount rate (default 10%)
-- See the new discount cost, scenario profit and % change
-- **Sensitivity table** for 0% – 30% discount, plus a line chart
-
-> *Assumption: quantity sold and costs stay constant; only the discount changes.*
-</details>
-
-<details>
-<summary><b>🔴 LIVE · 📐 REGRESSION</b></summary>
-
-Replicates the Data Analysis ToolPak output using formulas: Multiple R, R², Adjusted R², Standard Error, ANOVA, coefficients with t-stats, p-values and 95% confidence intervals, a scatter chart with trendline, and a **🟨 prediction box** (enter a Sales value → get predicted Profit).
-</details>
-
-<details>
-<summary><b>🔴 LIVE · 📊 DESCRIPTIVE STATS</b></summary>
-
-For **Sales, Quantity and Profit**: mean, standard error, median, mode, std. deviation, variance, kurtosis, skewness, range, min, max, sum, count and 95% confidence level — plus a histogram.
-</details>
-
----
-
-<a id="dashboard-preview"></a>
-
-## 🔴 LIVE · 🖼️ Dashboard Preview
-
-> 💡 *Add your screenshots in a `/screenshots` folder and the images below will appear.*
-
-| Dashboard | Regression | What-If |
-|:---:|:---:|:---:|
-| ![Dashboard](screenshots/dashboard.png) | ![Regression](screenshots/regression.png) | ![What-If](screenshots/whatif.png) |
-
----
-
-<a id="sample-findings"></a>
-
-## 🔴 LIVE · 🔎 Sample Findings
-
-Results from the current dataset:
-
-| Metric | Value |
+### 3️⃣ `CUSTOMERS`
+| Feature | Description |
 |---|---|
-| 💰 Total Sales | **195,218** |
-| 🧾 Total Orders | **200** |
-| 📈 Total Profit | **68,287** |
-| 🎯 Profit Margin | **35.0%** |
-| 🛒 Avg Order Value | **976** |
-| 🏷️ Avg Discount | **9.9%** (19,273 given in total) |
+| Customer metrics | Orders, Total Sales, Total Purchase, Total Profit, Avg Purchase per order |
+| Rank & Tier | `RANK`-based, flagged **High Value** or **Regular** |
+| 🟨 Top-N cell | Editable yellow cell to change the High-Value cut-off |
+| Leaderboard | Top 10 with % share of all purchases, highlighted green |
 
-**Headline insights**
+### 4️⃣ `PIVOT TABLE`
+Three `SUMIFS` tables that refresh automatically: **Region**, **Product Category** and a **Region × Category** cross-tab with grand totals.
 
-1. 🌎 **West** is the top region (44,084 sales, 22.6% of total); **East** is the weakest.
-2. 📚 **Books** lead all categories with 24.1% of sales; **Office Supplies** contribute least.
-3. 📅 **Sep 2024** was the best month (20,534); **Apr 2025** the weakest.
-4. 👑 The **Top 10 customers** generate **47.4%** of all purchases — **CUST015** is #1 (10,167).
-5. 📐 **Regression:** `Profit = −1.03 + 0.3509 × Sales` with **R² = 0.60** (p < 0.05) — every extra 1 of sales adds ≈ 0.35 profit.
-6. 🎛️ **What-if:** a flat 10% discount would change total profit by only **−0.4%**.
+### 5️⃣ `WHAT IF`
+Enter any flat discount rate (🟨 default 10%) to see the new discount cost, scenario profit and % change, plus a **0%–30% sensitivity table** and line chart.
 
----
+### 6️⃣ `REGRESSION`
+ToolPak-style output built with live formulas: Multiple R, R², Adjusted R², Standard Error, ANOVA, coefficients, t-stats, p-values, 95% confidence intervals, a scatter chart and a **🟨 prediction box**.
 
-<a id="dataset-description"></a>
+### 7️⃣ `DESCRIPTIVE STATS`
+For **Sales, Quantity and Profit**: mean, standard error, median, mode, std. deviation, variance, kurtosis, skewness, range, min, max, sum, count, 95% confidence level and a histogram.
 
-## 🔴 LIVE · 🗃️ Dataset Description
+<br/>
 
-| Column | Type | Description |
-|---|---|---|
-| `Customer_ID` | Text | Unique customer code (e.g., CUST001) |
-| `Customer_Name` | Text | Customer's name |
-| `Region` | Category | Central · East · North · South · West |
-| `Product_Category` | Category | Books · Clothing · Electronics · Furniture · Office Supplies |
-| `Sales` | Number | Order value before discount |
-| `Quantity` | Number | Units sold |
-| `Discount` | % | Discount applied to the order |
-| `Order_Date` | Date | Date of the order (10 Apr 2024 – 07 Apr 2025) |
-| `Profit` | Number | Profit earned on the order |
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=LIVE%20%C2%B7%20Features%20%2F%20Operations%20Covered&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Features / Operations Covered"/>
+</div>
 
----
 
-<a id="excel-functions-used"></a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🔴 LIVE · 🧰 Excel Functions Used
+**🔹 Aggregation & Lookup**
+- `SUMIFS` for region / category / customer totals
+- `SUMPRODUCT` for weighted average discount
+- `COUNTIF`, `COUNTA`, `AVERAGE`
+- `INDEX` + `MATCH` for "Best Region / Category / Month"
 
-| Category | Functions |
+</td>
+<td width="50%" valign="top">
+
+**🔹 Ranking & Logic**
+- `RANK` and `LARGE` for Top-10 leaderboard
+- `IF` for Profit Status and Customer Tier
+- `IFERROR` for safe results
+- Conditional formatting highlights
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔹 Statistical & Regression**
+- `STDEV`, `VAR`, `MEDIAN`, `MODE`, `KURT`, `SKEW`
+- `SLOPE`, `INTERCEPT`, `RSQ`, `CORREL`, `STEYX`, `LINEST`
+- `FDIST`, `TDIST`, `TINV`, `DEVSQ`
+
+</td>
+<td width="50%" valign="top">
+
+**🔹 Date, Text & Visuals**
+- `DATE`, `YEAR`, `MONTH`, `NOW`, `TEXT`
+- Auto-generated insight sentences
+- Bar, Pie, Line and Scatter charts
+- Merged-cell KPI cards
+
+</td>
+</tr>
+</table>
+
+### 🧮 Analysis Results
+
+| Sheet | Task | Function | Result |
+|---|---|---|:-:|
+| Dashboard | Total sales | `SUM` | **195,218** |
+| Dashboard | Total profit | `SUM` | **68,287** |
+| Dashboard | Profit margin | `Profit ÷ Sales` | **35.0%** |
+| Dashboard | Average order value | `Sales ÷ Orders` | **976** |
+| Dashboard | Average discount | `SUMPRODUCT` | **9.9%** |
+| Customers | Top customer | `INDEX` + `MATCH` | **CUST015** |
+| Customers | Top-10 share of purchases | `LARGE` | **47.4%** |
+| Regression | R² (Profit vs Sales) | `RSQ` | **0.60** |
+| Regression | Slope | `SLOPE` | **0.3509** |
+| What-If | Profit change at 10% flat discount | Scenario | **−0.4%** |
+
+**📐 Regression equation:** `Profit = −1.03 + 0.3509 × Sales` *(p < 0.05)*
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=LIVE%20%C2%B7%20Dataset%20Description&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Dataset Description"/>
+</div>
+
+
+| Column | Description |
 |---|---|
-| **Aggregation** | `SUM` `SUMIFS` `SUMPRODUCT` `COUNTA` `COUNTIF` `AVERAGE` |
-| **Lookup** | `INDEX` `MATCH` |
-| **Ranking** | `RANK` `LARGE` `MAX` `MIN` |
-| **Logic** | `IF` `IFERROR` |
-| **Date & Text** | `DATE` `YEAR` `MONTH` `NOW` `TEXT` |
-| **Statistics** | `STDEV` `VAR` `MEDIAN` `MODE` `KURT` `SKEW` `TINV` |
-| **Regression** | `SLOPE` `INTERCEPT` `RSQ` `CORREL` `STEYX` `LINEST` `FDIST` `TDIST` `DEVSQ` |
-| **Visuals** | Conditional formatting · Bar / Pie / Line / Scatter charts · Merged KPI cards |
+| Customer_ID, Customer_Name | Unique customer code and name |
+| Region | Central · East · North · South · West |
+| Product_Category | Books · Clothing · Electronics · Furniture · Office Supplies |
+| Sales | Order value before discount |
+| Quantity | Units sold |
+| Discount | Discount % applied to the order |
+| Order_Date | 10 Apr 2024 – 07 Apr 2025 |
+| Profit | Profit earned on the order |
 
----
+<br/>
 
-<a id="how-to-use"></a>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=LIVE%20%C2%B7%20Tech%20Stack&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Tech Stack"/>
+</div>
 
-## 🔴 LIVE · 🚀 How to Use
 
-1. **Download** `Analyzer.xlsx` and open it in Microsoft Excel (2016 or later recommended).
-2. If prompted about **external links**, click **Update** (or *Enable Content*) so the dashboard can read the `Dataset` sheet.
-3. Start on the **DASHBOARD** sheet for the big picture.
-4. Play with the 🟨 **yellow input cells**:
-   - `CUSTOMERS` → change the **Top N** cut-off
-   - `WHAT IF` → change the **discount rate**
-   - `REGRESSION` → enter any **Sales** value to predict Profit
-5. To analyse your own data, replace the rows in the `Dataset` sheet (keep the same column order) — everything refreshes automatically.
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Formulas](https://img.shields.io/badge/Live_Formulas-33c481?style=flat-square)
+![Charts](https://img.shields.io/badge/Charts-107c41?style=flat-square)
+![Regression](https://img.shields.io/badge/Regression-1f6feb?style=flat-square)
+![Conditional Formatting](https://img.shields.io/badge/Conditional_Formatting-8957e5?style=flat-square)
 
-> ⚠️ **Note:** The workbook formulas read from a sheet named `Dataset`. Keep this sheet (or the linked source file) in the same folder, otherwise Excel will show `#REF!` / link warnings.
+> ⚠️ **Note:** The formulas read from a sheet named `Dataset`. Keep it (or the linked source file) with the workbook, otherwise Excel shows link warnings or `#REF!`.
 
----
+<br/>
 
-<a id="skills-demonstrated"></a>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=LIVE%20%C2%B7%20How%20to%20Run&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="How to Run"/>
+</div>
 
-## 🔴 LIVE · 💡 Skills Demonstrated
 
-- ✅ Data cleaning & calculated fields
-- ✅ KPI design & dashboard storytelling
-- ✅ Customer segmentation (RFM-style ranking)
-- ✅ Dynamic, formula-based reporting
-- ✅ Descriptive & inferential statistics
-- ✅ Linear regression & hypothesis testing
-- ✅ Scenario / sensitivity analysis
-- ✅ Data visualization best practices
+1. Download or clone this repository.
+2. Open `Analyzer.xlsx` in Microsoft Excel (2016 or later).
+3. If asked about external links, click **Update / Enable Content**.
+4. Start on the `DASHBOARD` sheet, then explore other sheets from the tabs.
+5. Try the 🟨 yellow cells: Top-N in `CUSTOMERS`, discount rate in `WHAT IF`, Sales value in `REGRESSION`.
+6. Replace the rows in `Dataset` (same column order) to analyse your own data.
 
----
+<br/>
 
-<a id="future-improvements"></a>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=LIVE%20%C2%B7%20Sample%20Insights&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Sample Insights"/>
+</div>
 
-## 🔴 LIVE · 🔮 Future Improvements
+
+- 🌎 **West** is the top region (44,084 sales, 22.6%); **East** is the weakest
+- 📚 **Books** lead all categories with 24.1% of sales
+- 📅 **Sep 2024** was the best month (20,534); **Apr 2025** the weakest
+- 👑 **Top 10 customers** generate 47.4% of purchases; **CUST015** is #1 (10,167)
+- 📐 Every extra 1 of Sales adds about **0.35 profit** (R² = 0.60)
+- 🎛️ A flat 10% discount would change total profit by only **−0.4%**
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=LIVE%20%C2%B7%20File%20Structure&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="File Structure"/>
+</div>
+
+
+```
+📦 Sales-Analyzer
+ ┣ 📄 Analyzer.xlsx   # Main workbook (7 sheets)
+ ┣ 📁 screenshots     # Dashboard images
+ ┗ 📄 README.md       # Project documentation
+```
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=LIVE%20%C2%B7%20Future%20Improvements&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Future Improvements"/>
+</div>
+
 
 - [ ] Add slicers for Region / Category / Month
 - [ ] Add profit-by-category breakdown on the dashboard
 - [ ] Multi-variable regression (Sales, Quantity, Discount → Profit)
 - [ ] Forecasting with `FORECAST.ETS`
-- [ ] Power Query / Power Pivot version
+- [ ] Build a Power Query / Power Pivot version
 
----
+<br/>
 
-<a id="author"></a>
+<div align="center">
 
-## 🔴 LIVE · 👩‍💻 Author
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=LIVE%20%C2%B7%20Author&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Author"/>
+</div>
 
 **Chandni Thadani**
 📧 chandnithadani960@gmail.com
 
-⭐ *If you found this project useful, please consider giving it a star!*
+Made with ❤️ to turn raw sales data into live business insights.
 
----
+⭐ **If you found this project useful, consider giving it a star!**
 
-<div align="center">
-Made with ❤️ and Excel
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
+
 </div>
+
+
+
