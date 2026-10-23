@@ -2,25 +2,25 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2a,50:107c41,100:33c481&height=260&section=header&text=SALES%20ANALYZER&fontSize=56&fontColor=ffffff&stroke=0b3d2a&strokeWidth=1&animation=twinkling&fontAlignY=36&desc=Excel%20Dashboard%20%7C%20KPIs%20%7C%20Regression%20%7C%20What-If&descAlignY=58&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4f46e5,100:a78bfa&height=260&section=header&text=ANALYZER&fontSize=56&fontColor=ffffff&stroke=1e1b4b&strokeWidth=1&animation=twinkling&fontAlignY=36&desc=Excel%20Dashboard%20%7C%20KPIs%20%7C%20Regression%20%7C%20What-If&descAlignY=58&descSize=19" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Sales+Analyzer+Dashboard;7+Sheets+%E2%80%A2+200+Orders+%E2%80%A2+0+Macros;KPIs+%7C+Regression+%7C+What-If+%7C+Customer+Insights;Live+formulas+%E2%80%94+change+data%2C+everything+refreshes;Sales+%E2%80%A2+Profit+%E2%80%A2+Customers+%E2%80%A2+Statistics&font=Fira+Code&center=true&width=700&height=45&color=107C41&vCenter=true&size=22&pause=1200"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Analyzer+Dashboard;7+Sheets+%E2%80%A2+200+Orders+%E2%80%A2+0+Macros;KPIs+%7C+Regression+%7C+What-If+%7C+Customer+Insights;Live+formulas+%E2%80%94+change+data%2C+everything+refreshes;Sales+%E2%80%A2+Profit+%E2%80%A2+Customers+%E2%80%A2+Statistics&font=Fira+Code&center=true&width=700&height=45&color=4F46E5&vCenter=true&size=22&pause=1200"/>
 
 <br/>
 
-![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Sheets](https://img.shields.io/badge/Worksheets-7-1f6feb?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft-Excel-4f46e5?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Sheets](https://img.shields.io/badge/Worksheets-7-0ea5e9?style=for-the-badge)
 ![Orders](https://img.shields.io/badge/Orders-200-8957e5?style=for-the-badge)
 ![Level](https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-8b5cf6?style=for-the-badge)
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=Project%20Overview&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Project Overview"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:a78bfa&height=110&section=header&text=Project%20Overview&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Project Overview"/>
 </div>
 
-**Sales Analyzer** is a hands-on Excel project (`Analyzer.xlsx`) that turns **200 raw sales orders (Apr 2024 – Apr 2025)** into a one-page executive dashboard, backed by customer segmentation, pivot-style summaries, descriptive statistics, a **linear regression model** and a **what-if discount simulator**. Each sheet answers real business questions such as *"Which region earns the most?"*, *"Who are our top customers?"* and *"What happens to profit if we change the discount?"*
+**Analyzer** is a hands-on Excel project (`Analyzer.xlsx`) that turns **200 raw sales orders (Apr 2024 – Apr 2025)** into a one-page executive dashboard, backed by customer segmentation, pivot-style summaries, descriptive statistics, a **linear regression model** and a **what-if discount simulator**. Each sheet answers real business questions such as *"Which region earns the most?"*, *"Who are our top customers?"* and *"What happens to profit if we change the discount?"*
 
 Everything is **formula-driven with zero macros** — change the data and every KPI, chart, table and written insight updates automatically.
 
@@ -29,7 +29,7 @@ Everything is **formula-driven with zero macros** — change the data and every 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=Workbook%20Structure&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Workbook Structure"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:a78bfa&height=110&section=header&text=Workbook%20Structure&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Workbook Structure"/>
 </div>
 
 
@@ -67,7 +67,7 @@ Everything is **formula-driven with zero macros** — change the data and every 
 | Customer metrics | Orders, Total Sales, Total Purchase, Total Profit, Avg Purchase per order |
 | Rank & Tier | `RANK`-based, flagged **High Value** or **Regular** |
 | 🟨 Top-N cell | Editable yellow cell to change the High-Value cut-off |
-| Leaderboard | Top 10 with % share of all purchases, highlighted green |
+| Leaderboard | Top 10 with % share of all purchases, highlighted |
 
 ### 4️⃣ `PIVOT TABLE`
 Three `SUMIFS` tables that refresh automatically: **Region**, **Product Category** and a **Region × Category** cross-tab with grand totals.
@@ -84,7 +84,7 @@ For **Sales, Quantity and Profit**: mean, standard error, median, mode, std. dev
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=Features%20%2F%20Operations%20Covered&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Features / Operations Covered"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:a78bfa&height=110&section=header&text=Features%20%2F%20Operations%20Covered&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Features / Operations Covered"/>
 </div>
 
 
@@ -150,7 +150,7 @@ For **Sales, Quantity and Profit**: mean, standard error, median, mode, std. dev
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=Dataset%20Description&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Dataset Description"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:a78bfa&height=110&section=header&text=Dataset%20Description&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Dataset Description"/>
 </div>
 
 
@@ -168,14 +168,14 @@ For **Sales, Quantity and Profit**: mean, standard error, median, mode, std. dev
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=Tech%20Stack&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Tech Stack"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:a78bfa&height=110&section=header&text=Tech%20Stack&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Tech Stack"/>
 </div>
 
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Formulas](https://img.shields.io/badge/Live_Formulas-33c481?style=flat-square)
-![Charts](https://img.shields.io/badge/Charts-107c41?style=flat-square)
-![Regression](https://img.shields.io/badge/Regression-1f6feb?style=flat-square)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-4f46e5?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Formulas](https://img.shields.io/badge/Live_Formulas-a78bfa?style=flat-square)
+![Charts](https://img.shields.io/badge/Charts-4f46e5?style=flat-square)
+![Regression](https://img.shields.io/badge/Regression-0ea5e9?style=flat-square)
 ![Conditional Formatting](https://img.shields.io/badge/Conditional_Formatting-8957e5?style=flat-square)
 
 > ⚠️ **Note:** The formulas read from a sheet named `Dataset`. Keep it (or the linked source file) with the workbook, otherwise Excel shows link warnings or `#REF!`.
@@ -183,7 +183,7 @@ For **Sales, Quantity and Profit**: mean, standard error, median, mode, std. dev
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=How%20to%20Run&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="How to Run"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:a78bfa&height=110&section=header&text=How%20to%20Run&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="How to Run"/>
 </div>
 
 
@@ -197,7 +197,7 @@ For **Sales, Quantity and Profit**: mean, standard error, median, mode, std. dev
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=Sample%20Insights&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Sample Insights"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:a78bfa&height=110&section=header&text=Sample%20Insights&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Sample Insights"/>
 </div>
 
 
@@ -211,19 +211,19 @@ For **Sales, Quantity and Profit**: mean, standard error, median, mode, std. dev
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=File%20Structure&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="File Structure"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:a78bfa&height=110&section=header&text=File%20Structure&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="File Structure"/>
 </div>
 
 
 ```
-📦 Sales-Analyzer
+📦 Analyzer
  ┣ 📄 Analyzer.xlsx   # Main workbook (7 sheets)
  ┣ 📁 screenshots     # Dashboard images
  ┗ 📄 README.md       # Project documentation
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=Future%20Improvements&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Future Improvements"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:a78bfa&height=110&section=header&text=Future%20Improvements&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Future Improvements"/>
 </div>
 
 
@@ -238,7 +238,7 @@ For **Sales, Quantity and Profit**: mean, standard error, median, mode, std. dev
 <div align="center">
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=110&section=header&text=Author&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Author"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:a78bfa&height=110&section=header&text=Author&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Author"/>
 </div>
 
 **Bhavika Thadani**
@@ -247,6 +247,6 @@ Made with ❤️ to turn raw sales data into live business insights.
 
 ⭐ **If you found this project useful, consider giving it a star!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:107c41,100:33c481&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:a78bfa&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
