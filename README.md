@@ -24,7 +24,8 @@
 
 Everything is **formula-driven with zero macros** — change the data and every KPI, chart, table and written insight updates automatically.
 
-> 📸 *Add your dashboard screenshot here:* `![Dashboard](screenshots/dashboard.png)`
+> <img width="2000" height="2400" alt="analyzer_dashboard" src="https://github.com/user-attachments/assets/85c27d86-84e6-48e6-8d41-dada5be32d6d" />
+
 
 <br/>
 
